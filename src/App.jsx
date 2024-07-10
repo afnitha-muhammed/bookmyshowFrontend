@@ -66,21 +66,21 @@ const items = [
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="./assets/img/carosal1.avif"
+          src="./src/assets/img/carosal1.avif"
           alt="First slide"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="./assets/img/carosal2.avif"
+          src="./src/assets/img/carosal2.avif"
           alt="Second slide"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="./assets/img/carosal2.avif"
+          src="./src/assets/img/carosal2.avif"
           alt="Second slide"
         />
       </Carousel.Item>
