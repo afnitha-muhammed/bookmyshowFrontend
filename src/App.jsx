@@ -246,6 +246,7 @@ const items = [
         <p className='subfilmname ms-3'>$300</p>
         </div>
         <div>
+
         <img src={sports4} alt="no-image"  style={{ width: '15rem',marginLeft:'10px', borderRadius:'10px' }} />
         <h3 className='filmname mt-3 ms-3'>Solve the Rubic's Cube, Sharpen 6 Virtual Skills</h3>
         <p className='subfilmname ms-3'>$700</p>
